@@ -1,5 +1,5 @@
 def my_hash
-  hsh = {} 
+  hsh = {the_word: bird} 
 end
 
 
